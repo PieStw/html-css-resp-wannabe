@@ -127,6 +127,8 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+ /* Bonus */
  @media screen and (max-width: 1160px) {
     .container{
         width: 100%;
@@ -134,12 +136,14 @@ img {
  }
 
  /* Rimosso poichè con il bonus posso evitare di aggiungerlo */
+ /* Tablet */
  /*@media screen and (max-width: 768px) {
     .container{
         width: 100%;
     }
  }*/
 
+/* Mobile */
  @media screen and (max-width: 480px) {
     .container{
         width: 100%;
